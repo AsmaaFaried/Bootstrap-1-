@@ -1,0 +1,18 @@
+.back-image {
+    border-radius: 15px;
+    background-size: 100% 100%;
+    background-image: url(Images/intro_flower.png)
+}
+
+.card-dicore {
+    background-image: linear-gradient(#D8D8D8, #F8F9FA);
+}
+
+.dicore {
+    border-radius: 10px;
+    background-color: #d5d4d4;
+    border: 0px;
+}
+.list{
+    color: gray;
+}
